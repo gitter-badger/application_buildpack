@@ -1,5 +1,7 @@
 # application\_buildpack
 
+[![Join the chat at https://gitter.im/chefhippie/application_buildpack](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/chefhippie/application_buildpack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Description
 
 This cookbook is designed to be able to deploy applications using heroku buildpacks.
